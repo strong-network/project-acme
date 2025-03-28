@@ -1,0 +1,9 @@
+tmp
+debug.json
+*.out
+*vscode*
+node_modules
+dist/
+yarn-error.log
+test_failed
+.eslintcache
