@@ -1,7 +1,7 @@
 <script setup lang="ts">
-import { RouterLink, RouterView } from 'vue-router';
+import { RouterLink, RouterView } from "vue-router";
 
-const apiKey = 'j3atAnwZ5xEOsdhZr2uVffdtDinQbfk07hS3jacWH8n9HaQdBd';
+const apiKey = "j3atAnwZ5xEOsdhZr2uVffdtDinQbfk07hS3jacWH8n9HaQdBd";
 </script>
 
 <template>
