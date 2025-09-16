@@ -1,3 +1,5 @@
 # ACME Project
 
-[![Open in Strong Network](https://strong.network/assets/images/quickstart/quickstart_button_blue.png)](https://demo.strong.network/project/399991536570222/quickstart/714288768697896)
+# Citrix Secure Developer Spaces
+| [![Open in Strong Network](./assets/open.png)](https://demo.strong.network/project/122878313252923/quickstart/527272919449683)  | [![Open in Strong Network](./assets/view.png)](https://demo.strong.network/project/399991536570222/workspaces/templates) |
+| ------------- |:-------------:|
