@@ -8,4 +8,4 @@ metadata:
 spec:
   lifecycle: production
   type: backstage-frontend-plugin
-  owner: citrix-team
+  owner: group:default/citrix-team
