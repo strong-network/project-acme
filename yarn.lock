@@ -2374,10 +2374,10 @@ vue-tsc@^3.0.1:
     "@volar/typescript" "2.4.23"
     "@vue/language-core" "3.1.0"
 
-vue3-google-map@^0.23.0:
-  version "0.23.1"
-  resolved "https://registry.yarnpkg.com/vue3-google-map/-/vue3-google-map-0.23.1.tgz#8f9a39d226a9620182e0cbc4dcb29207bd1673ac"
-  integrity sha512-fdNUy8ycn4cNWzqynjSRI8mtiCe/KpRSnIkgwiZsTRhdIm7U9bTFp+sEDjHnP/T3Zqf+1KNxMfwVnOnBiCEDPA==
+vue3-google-map@^0.24.0:
+  version "0.24.1"
+  resolved "https://registry.yarnpkg.com/vue3-google-map/-/vue3-google-map-0.24.1.tgz#9dd805512a032b4ad58f4e66d261976afb8fe29c"
+  integrity sha512-3v96LJ+2+Fwlp5OXA26Kw0ogkiP6kc1vW/V8IpW13ju2LgFbxkIIvZeb8fJ7WgMRDtncbLuZLOU1zwiyWcnifw==
   dependencies:
     "@googlemaps/js-api-loader" "^1.16.2"
     "@googlemaps/markerclusterer" "^2.4.0"
