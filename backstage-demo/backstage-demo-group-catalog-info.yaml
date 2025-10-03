@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: citrix-team
+  namespace: default
+  title: Citrix Team
+spec:
+  type: team
+  profile:
+    displayName: Citrix Team
+  children: []
