@@ -1,0 +1,7 @@
+apiVersion: backstage.io/v1alpha1
+kind: Location
+metadata:
+  name: demo-catalog-locations
+spec:
+  type: url
+  target: https://github.com/strong-network/project-acme/blob/20251001_ad_add_backstage_component/backstage-demo/backstage-demo-catalog-info.yaml
