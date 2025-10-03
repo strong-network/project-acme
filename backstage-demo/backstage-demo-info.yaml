@@ -5,3 +5,5 @@ metadata:
   title: '@citrix/demo-backstage-plugin'
   description: >-
     A demo Backstage component showcasing the SDS Workspace plugin integration wiht Citrix Secure Developer Spaces.
+spec:
+  lifecycle: production
