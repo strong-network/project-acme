@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: demo-plugin-testing
+  name: demo-plugin-docs
   title: '@citrix/demo-plugin-docs'
   description: >-
     A demo Backstage component showcasing the SDS Workspace plugin integration wiht Citrix Secure Developer Spaces.
